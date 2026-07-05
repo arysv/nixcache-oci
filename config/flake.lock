@@ -6,11 +6,11 @@
         "tg_owt": "tg_owt"
       },
       "locked": {
-        "lastModified": 1782619803,
-        "narHash": "sha256-d/e3eXcuCdaNwgqm/S0a7A3YD8lFySkJ7MXfFByWHUY=",
+        "lastModified": 1783221862,
+        "narHash": "sha256-Qr/TMEYbTsrQMacKkOdUtyBy6MbY2o/ywt57s0eKIl8=",
         "ref": "refs/heads/release",
-        "rev": "adbd39ae5061db63a7c8288bb4559c304b113b2a",
-        "revCount": 428,
+        "rev": "8f88025a43b140cdfacca55169f7429e2b30d643",
+        "revCount": 429,
         "submodules": true,
         "type": "git",
         "url": "https://github.com/ndfined-crp/ayugram-desktop/"
@@ -23,11 +23,11 @@
     },
     "nixpkgs": {
       "locked": {
-        "lastModified": 1782467914,
-        "narHash": "sha256-pGvFkM8N0xEkIIXDe5YYfbEAvHrk4IxBrjB/x8OomhE=",
+        "lastModified": 1782959384,
+        "narHash": "sha256-xnJJk+ct+D2+wdRxj1wk36w5zV9RVESwRqcklPdt3fM=",
         "owner": "nixos",
         "repo": "nixpkgs",
-        "rev": "e73de5be04e0eff4190a1432b946d469c794e7b4",
+        "rev": "65179426c83bb3f6bc14898b42ea1c6f01d374b0",
         "type": "github"
       },
       "original": {
